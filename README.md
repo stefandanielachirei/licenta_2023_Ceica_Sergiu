@@ -29,3 +29,5 @@ If you do not already have Anaconda installed on your computer, **it is highly r
 #### Content of tutorial notebooks include references to:
 - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) by [Ani Adhikari](https://statistics.berkeley.edu/people/ani-adhikari), [John DeNero](http://denero.org/), and [David Wagner](https://people.eecs.berkeley.edu/~daw/) licensed under [CC BY-ND-NC 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
+Matlab online scripts: 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=stefandanielachirei/licenta_2023_Ceica_Sergiu)
